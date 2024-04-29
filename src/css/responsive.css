@@ -1,0 +1,11 @@
+@media (min-width: 320px) and (max-width: 425px){
+
+    .cartao{
+        max-width: 400px;
+    }
+
+    .linha{
+        width: 95%;
+        height: 15px;
+    }
+}
